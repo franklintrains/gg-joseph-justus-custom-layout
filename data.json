@@ -1,0 +1,74 @@
+[
+  {
+    "metadata": [
+      {
+        "title": "GarGraves Joseph Justus Custom Layout",
+        "slug": "gargraves-joseph-justus-layout",
+        "description": "This is a custom 14' x 10' layout design that uses GarGraves 0 gauge Stainless Phantom Track and Ross Custom Switches. There is some overlap within the straight track that would need to be custom cut and Ross Custom Switches that can be substituted and cut with GarGraves. Outside loops is a requested 072 curve and the inside loop curves are a requested 054 curve. ",
+        "keywords": [
+          "Franklin Trains",
+          "GarGraves",
+          "Ross Custom Switches",
+          "072 Curve",
+          "054 Curve"
+        ]
+      }
+    ],
+    "layout": [
+      {
+        "id": "crossovers",
+        "name": "Crossovers",
+        "value": false,
+        "type": [true, false]
+      },
+      {
+        "id": "switchCount",
+        "name": "Switch Count",
+        "value": 12,
+        "type": "integer"
+      },
+      {
+        "id": "smallestCurve",
+        "name": "Smallest Curve",
+        "value": "054",
+        "type": ["none", "025", "030", "048", "048", "058", "084", "096"]
+      },
+      {
+        "id": "trackBrand",
+        "name": "Track Brand",
+        "value": ["gargraves", "ross"],
+        "type": ["fasttrack", "tubular", "atlas", "gargraves", "ross"]
+      },
+      {
+        "id": "width",
+        "name": "Width",
+        "value": 14,
+        "type": [6, 7, 8, 9, 10]
+      },
+      {
+        "id": "height",
+        "name": "Height",
+        "value": 10,
+        "type": [3, 4, 5]
+      },
+      {
+        "id": "elevated",
+        "name": "Elevated",
+        "value": false,
+        "type": [true, false]
+      },
+      {
+        "id": "siding",
+        "name": "Siding",
+        "value": 5,
+        "type": "integer"
+      },
+      {
+        "id": "mainLines",
+        "name": "Main Lines",
+        "value": 2,
+        "type": "integer"
+      }
+    ]
+  }
+]
