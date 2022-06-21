@@ -2,7 +2,7 @@
 
 ![preview](./preview.png)
 
-This is a custom 14' x 10' layout design that uses GarGraves 0 gauge Stainless Phantom Track and Ross Custom Switches. There is some overlap within the straight track that would need to be custom cut and Ross Custom Switches that can be substituted and cut with GarGraves. Outside loops is a requested 072 curve and the inside loop curves are a requested 054 curve.
+This is a custom 14' x 10' layout design that uses GarGraves 0 gauge Stainless Phantom Track and Ross Custom Switches. There is some overlap within the straight track that would need to be custom cut. Some areas use Ross Custom Switches straight track that can be substituted and cut with GarGraves straight track. Outside loop is a requested 072 curve and the inside loop curves are a requested 054 curve.
 
 ## Parts List
 
